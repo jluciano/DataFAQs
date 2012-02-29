@@ -1,0 +1,9 @@
+<http://example.org/potential_use_1a> 
+  a <http://purl.org/twc/vocab/goef#PotentialUse>;
+  <http://example.org/fake> true;
+.
+
+<http://example.org/potential_use_1b> 
+   a <http://purl.org/twc/vocab/goef#PotentialUse>;
+  <http://example.org/fake> false;
+. 
